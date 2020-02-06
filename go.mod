@@ -10,3 +10,5 @@ require (
 	golang.org/x/net v0.0.0-20191014212845-da9a3fd4c582
 	google.golang.org/grpc v1.24.0
 )
+
+replace github.com/textileio/go-textile-core => github.com/anytypeio/go-textile-core v0.0.0-20200206075256-755f16f4c12d
